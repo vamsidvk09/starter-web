@@ -5,7 +5,9 @@ This is a sample git hub project to demonstarte the git skills by me
 Introducing the most convenetional git project
 
 ## Purpose
+git training
 
 ## How to contribute
 
 ## Deployment
+Deploy on the windows
