@@ -8,6 +8,7 @@ Introducing the most convenetional git project
 git training
 
 ## How to contribute
+Please fork this repo and issue PL for review
 
 ## Deployment
 Deploy on the windows
