@@ -1,5 +1,6 @@
 # Starter Web Repo
 Adding a  line for rebase , More changes form myfeature
+STash example
 
 This is a sample git hub project to demonstarte the git skills by me
 ## Introduction
